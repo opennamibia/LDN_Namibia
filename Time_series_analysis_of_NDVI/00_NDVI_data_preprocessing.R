@@ -2,15 +2,11 @@
 # NDVI data preprocessing
 # Author: John M
 # International Center for Tropical Agriculture (CIAT)
-# Last modified: March 1 2018
+# Last modified: March 15 2018
 
 ## ------------------------------------------------------------------------
 # clear your work space
 rm(list = ls(all = TRUE))
-
-## ---- echo=FALSE, warning=FALSE, message=FALSE---------------------------
-library("knitr")
-opts_knit$set(root.dir = "E:/LDN_training/Time_series_analysis_of_NDVI")
 
 ## ---- message=FALSE, warning=FALSE---------------------------------------
 # load packages
