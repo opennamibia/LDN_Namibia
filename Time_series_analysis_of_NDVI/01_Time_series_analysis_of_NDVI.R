@@ -1,5 +1,5 @@
 # Time series analysis of NDVI
-# Author: John M
+# Author: John Mutua
 # International Center for Tropical Agriculture (CIAT)
 # Last modified: March 16 2018
 

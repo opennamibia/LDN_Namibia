@@ -1,8 +1,7 @@
-## ----echo=FALSE----------------------------------------------------------
 # NDVI data preprocessing
-# Author: John M
+# Author: John Mutua
 # International Center for Tropical Agriculture (CIAT)
-# Last modified: March 15 2018
+# Last modified: March 16 2018
 
 ## ------------------------------------------------------------------------
 # clear your work space
